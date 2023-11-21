@@ -1,0 +1,61 @@
+body {
+    color: #FFFFFF;
+    background-color: #569486;
+    font-family: 'helvetica';
+}
+
+#womendesign{
+    height: 414px;
+    width: 100%;
+    padding: 8px;
+}
+body  {
+    margin-top: 16px;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#img{
+    margin: 0%;
+    width: 100%;
+}
+
+#elizabeth {
+    border-radius: 100px;
+
+}
+
+#elizabeth-friedlander {
+    padding: 8px;
+}
+#paula-scher
+#jessica-hische
+
+#paula {
+    border-radius:  100px;
+}
+
+#jessica {
+    border-radius: 100px;
+}
+
+h1 {
+    font-size: 120px;
+    line-height: 95.5%;
+    font-family: "miller display";
+    font-weight: lighter;
+}
+
+*{
+    padding: 16px;
+}
+
+#intro {
+    text-align: center;
+}
+
+#title {
+    padding: 8px;
+}
+
