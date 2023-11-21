@@ -6,6 +6,7 @@ body {
 }
 
 
+
 #title {
     font-size: 100px;
     font-family: "miller-display", serif;
@@ -15,31 +16,41 @@ margin-left: 240px;
 margin-right: 240px;
 }
 
+
+
 #intro {
     width: 700px;
     background-color: #FFFFFF;
     color: black;
+    margin: 16px 280px;
     padding-top: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
     padding-right: 16px;
+    border: 16px;
     border-radius: 350px;
     text-align: center;
+    
 }
+
+
 
 h3 {
     font-size: 30px;
     font-family: "miller-display", serif;
-font-weight: 400;
-font-style: normal;
-margin-left: 240px;
-margin-right: 240px;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 240px;
+    margin-right: 240px;
 }
+
 
 #womendesign {
     width: cover;
     height: 400px;
 }
+
+
 
 p {
     margin-left: 240px;
@@ -47,15 +58,26 @@ p {
     font-family: "bilo", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 120px;
 }
 
-#elizabeth, #paula, #jessica {
+
+
+#elizabethname, #paulaname, #jessicaname {
     margin-left: 240px;
     margin-right: 240px;
-    border-radius: 50px;
-    position: relative; top: 300px;
+    position: relative;
+    top: 100px;
+    left: 120px;
 }
+
+
+
+#elizabethimg, #paulaimg, #jessicaimg {
+    margin-left: 240px;
+    size: 500px;
+    border-radius: 50px;
+}
+
 
 #eliz1, #eliz2 {
     margin-left: 260px;
