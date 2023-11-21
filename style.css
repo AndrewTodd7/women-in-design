@@ -15,6 +15,18 @@ margin-left: 240px;
 margin-right: 240px;
 }
 
+#intro {;
+    width: 700px;
+    background-color: #FFFFFF;
+    color: black;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 350px;
+    text-align: center;
+}
+
 h3 {
     font-size: 30px;
     font-family: "miller-display", serif;
@@ -78,3 +90,4 @@ font-style: normal;
 #jessica3 {
     width: 180px
 }
+
