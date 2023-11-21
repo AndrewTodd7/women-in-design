@@ -5,7 +5,11 @@ body {
     color: #FFFFFF;
 }
 
-
+#nav {font-family: "miller-display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    
 
 #title {
     font-size: 100px;
@@ -66,16 +70,17 @@ p {
     margin-left: 240px;
     margin-right: 240px;
     position: relative;
-    top: 100px;
-    left: 120px;
+    top: 75px;
+    left: 60px;
 }
 
 
 
 #elizabethimg, #paulaimg, #jessicaimg {
     margin-left: 240px;
-    size: 500px;
-    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
 }
 
 
@@ -85,6 +90,17 @@ p {
     width: 400px;
 }
 
+#eliz1 {
+    padding: 32px 0px;
+}
+
+#eliz2 {
+    position: relative;
+    left: 425px;
+    bottom: 461px;
+    
+}
+
 #paula1, #paula2, #paula3 {
     margin-left: 300px;
     margin-right: 300px;
@@ -92,11 +108,25 @@ p {
 
 #paula1 {
     width: 300px;
+    position: relative;
+    top: 32px;
 }
 
-#paula2, #paula3 {
+ #paula3 {
     width: 200px;
+    position: relative; 
+    left: 580px;
+    bottom: 398px;
 }
+
+#paula2 {
+    width: 200px;
+    position: relative; 
+    left: 580px;
+    bottom: 443px;
+}
+
+
 
 #jessica1, #jessica2, #jessica3 {
     margin-left: 300px;
@@ -115,6 +145,29 @@ p {
     width: 180px
 }
 
+#paulaall {
+    position: relative;
+    bottom: 500px;
+}
 
+#jessicaall {
+    position: relative;
+    bottom: 925px;
+}
 
+#jessica1 {
+    position: relative;
+    top: 32px;
+}
 
+#jessica2 {
+    position: relative;
+    left: 600px;
+    bottom: 468px;
+}
+
+#jessica3 {
+    position: relative;
+    bottom: 336px;
+    left: 600px;
+}
