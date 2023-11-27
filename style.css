@@ -155,7 +155,7 @@ p {
 
 #jessicaall {
     position: relative;
-    bottom: 925px;
+   margin-bottom: 2rem;
 }
 
 #jessica1 {
@@ -195,7 +195,7 @@ a:visited {
 
 #footer {
     position: relative;
-    bottom: 1200px;
+    bottom: 4rem;
 }
 
 #otherdesigners {
