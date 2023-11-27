@@ -29,6 +29,7 @@ margin-right: 240px;
     border: 16px;
     border-radius: 350px;
     text-align: center;
+    font-size: 22px;
     
 }
 
@@ -168,13 +169,12 @@ p {
     left: 600px;
 }
 
-li {
-    display: inline-block
-    margin-right: 16px
+li, #navigation {
+    display: inline-block;
     font-family: "bilo", sans-serif;
     font-weight: 400;
     font-style: normal;
-    margin-left: 240px;
+    margin-left: 100px;
 }
 
 a:link {
@@ -186,3 +186,27 @@ a:visited {
     color:#FFFFFF;
 }
 
+#footer {
+    position: relative;
+    bottom: 1200px;
+}
+
+#otherdesigners {
+    margin-left: 100px;
+}
+
+#facebook {
+    margin-left: 45%;
+    position: relative;
+    top: 16px;
+}
+
+#instagram {
+    position: relative;
+    top: 16px;
+}
+
+#twitter {
+    position: relative; 
+    top: 16px;
+}
