@@ -9,19 +9,26 @@ body {
     
 
 #title {
-    font-size: 100px;
+    font-size: 120px;
     font-family: "miller-display", serif;
 font-weight: 400;
 font-style: normal;
-margin-left: 240px;
-margin-right: 240px;
+text-align: left;
+margin-left: 250px;
+}
+
+#celebrating {
+    font-size: 22px;
+    position: relative;
+    bottom: 60px;
+    margin-left: 430px;
 }
 
 #intro {
+    margin-left: 340px;
     width: 700px;
     background-color: #FFFFFF;
     color: black;
-    margin: 16px 280px;
     padding-top: 16px;
     padding-bottom: 16px;
     padding-left: 16px;
@@ -30,7 +37,6 @@ margin-right: 240px;
     border-radius: 350px;
     text-align: center;
     font-size: 22px;
-    
 }
 
 
@@ -93,7 +99,7 @@ p {
 
 #eliz2 {
     position: relative;
-    left: 425px;
+    left: 460px;
     bottom: 461px;
     
 }
@@ -174,7 +180,8 @@ li, #navigation {
     font-family: "bilo", sans-serif;
     font-weight: 400;
     font-style: normal;
-    margin-left: 100px;
+    margin-left: 108px;
+    margin-top: 4px;
 }
 
 a:link {
@@ -192,11 +199,37 @@ a:visited {
 }
 
 #otherdesigners {
-    margin-left: 100px;
+    margin-left: 95px;
+    margin-right: 150px;
+}
+
+#closing {
+    margin-left: 240px;
+}
+
+#takealook {
+    position: relative;
+    top: 54px;
+}
+
+#notion {
+    height: 20px;
+    width: 20px;
+    margin-left: 405px;
+    position: relative;
+    top: 20px;
+}
+
+#outlook {
+    height: 20px;
+    width: 20px;
+    margin-left: 440px;
+    position: relative;
+    bottom: 62px;    
 }
 
 #facebook {
-    margin-left: 45%;
+    margin-left: 200px;
     position: relative;
     top: 16px;
 }
@@ -210,3 +243,4 @@ a:visited {
     position: relative; 
     top: 16px;
 }
+
