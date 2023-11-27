@@ -5,10 +5,7 @@ body {
     color: #FFFFFF;
 }
 
-#nav {font-family: "miller-display", serif;
-    font-weight: 400;
-    font-style: normal;
-}
+
     
 
 #title {
@@ -19,8 +16,6 @@ font-style: normal;
 margin-left: 240px;
 margin-right: 240px;
 }
-
-
 
 #intro {
     width: 700px;
@@ -62,6 +57,7 @@ p {
     font-family: "bilo", sans-serif;
     font-weight: 400;
     font-style: normal;
+    color:#FFFFFF;
 }
 
 
@@ -173,10 +169,20 @@ p {
 }
 
 li {
-    display: inline-block;
-    padding: 0px 16px;
+    display: inline-block
+    margin-
     font-family: "bilo", sans-serif;
     font-weight: 400;
     font-style: normal;
     margin-left: 240px;
+
+}
+
+a:link {
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#FFFFFF;
 }
