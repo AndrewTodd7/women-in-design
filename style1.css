@@ -1,61 +1,245 @@
 body {
-    color: #FFFFFF;
     background-color: #569486;
-    font-family: 'helvetica';
+    color: #FFFFFF;
 }
 
-#womendesign{
-    height: 414px;
-    width: 100%;
-    padding: 8px;
-}
-body  {
-    margin-top: 16px;
-    margin-bottom: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
-}
 
-#img{
-    margin: 0%;
-    width: 100%;
-}
+    
 
-#elizabeth {
-    border-radius: 100px;
-
-}
-
-#elizabeth-friedlander {
-    padding: 8px;
-}
-#paula-scher
-#jessica-hische
-
-#paula {
-    border-radius:  100px;
-}
-
-#jessica {
-    border-radius: 100px;
-}
-
-h1 {
+#title {
     font-size: 120px;
-    line-height: 95.5%;
-    font-family: "miller display";
-    font-weight: lighter;
+    font-family: "miller-display", serif;
+font-weight: 400;
+font-style: normal;
+text-align: left;
+margin-left: 250px;
 }
 
-*{
-    padding: 16px;
+#celebrating {
+    font-size: 22px;
+    position: relative;
+    bottom: 60px;
+    margin-left: 430px;
 }
 
 #intro {
+    margin-left: 340px;
+    width: 700px;
+    background-color: #FFFFFF;
+    color: black;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 16px;
+    border-radius: 350px;
     text-align: center;
+    font-size: 22px;
 }
 
-#title {
-    padding: 8px;
+
+
+h3 {
+    font-size: 1.875rem;
+    font-family: "miller-display", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+
+#womendesign {
+    width: cover;
+    height: 400px;
+}
+
+
+
+p {
+    margin-left: 240px;
+    margin-right: 240px;
+    font-family: "bilo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color:#FFFFFF;
+}
+
+
+
+#elizabethname, #paulaname, #jessicaname {
+    margin-left: 240px;
+    margin-right: 240px;
+    position: relative;
+    top: 75px;
+    left: 60px;
+}
+
+
+
+#elizabethimg, #paulaimg, #jessicaimg {
+    margin-left: 240px;
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+}
+
+
+#eliz1, #eliz2 {
+    margin-left: 260px;
+    margin-right: 260px;
+    width: 400px;
+}
+
+#eliz1 {
+    padding: 32px 0px;
+}
+
+#eliz2 {
+    position: relative;
+    left: 460px;
+    bottom: 461px;
+    
+}
+
+#paula1, #paula2, #paula3 {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#paula1 {
+    width: 300px;
+    position: relative;
+    top: 32px;
+}
+
+ #paula3 {
+    width: 200px;
+    position: relative; 
+    left: 580px;
+    bottom: 398px;
+}
+
+#paula2 {
+    width: 200px;
+    position: relative; 
+    left: 580px;
+    bottom: 443px;
+}
+
+
+
+#jessica1, #jessica2, #jessica3 {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#jessica1 {
+    width: 400px;
+}
+
+#jessica2 {
+    width: 180px;
+}
+
+#jessica3 {
+    width: 180px
+}
+
+.div {
+    position: relative;
+    bottom: 500px;
+    margin-bottom: 2rem;
+}
+
+.div{
+    position: relative;
+   margin-bottom: 2rem;
+}
+
+#jessica1 {
+    position: relative;
+    top: 32px;
+}
+
+#jessica2 {
+    position: relative;
+    left: 600px;
+    bottom: 468px;
+}
+
+#jessica3 {
+    position: relative;
+    bottom: 336px;
+    left: 600px;
+}
+
+li, #navigation {
+    display: inline-block;
+    font-family: "bilo", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 108px;
+    margin-top: 4px;
+}
+
+a:link {
+    color:#FFFFFF;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#FFFFFF;
+}
+
+#footer {
+    position: relative;
+    bottom: 4rem;
+}
+
+#otherdesigners {
+    margin-left: 95px;
+    margin-right: 150px;
+}
+
+#closing {
+    margin-left: 240px;
+}
+
+#takealook {
+    position: relative;
+    top: 54px;
+}
+
+#notion {
+    height: 20px;
+    width: 20px;
+    margin-left: 405px;
+    position: relative;
+    top: 20px;
+}
+
+#outlook {
+    height: 20px;
+    width: 20px;
+    margin-left: 440px;
+    position: relative;
+    bottom: 62px;    
+}
+
+#facebook {
+    margin-left: 200px;
+    position: relative;
+    top: 16px;
+}
+
+#instagram {
+    position: relative;
+    top: 16px;
+}
+
+#twitter {
+    position: relative; 
+    top: 16px;
 }
 
