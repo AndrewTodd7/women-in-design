@@ -103,3 +103,51 @@ p {
     right: 7rem;
 }
 
+#someother {
+position: relative;
+top: 1.5rem;
+}
+
+
+#otherdesigners {
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+
+#emailme {
+    margin-left: 240px;
+}
+
+#outlook {
+    margin-left: 240px;
+    width: 1.25rem;
+    height: 1.25rem;
+    position: relative;
+    left: 12.25rem;
+    bottom: 3.875rem;
+}
+
+#closing {
+    margin-left: 240px;
+    margin-right: 240px;
+}
+
+#takealook {
+    margin-left: 240px;
+    position: relative;
+    top: 3rem;
+}
+
+#notion {
+margin-left: 240px;
+width: 1.25rem;
+height: 1.25rem;
+position: relative;
+left: 10.125rem;
+top: 0.8rem;
+}
+
+#facebook {
+    margin-left: 400px;
+}
