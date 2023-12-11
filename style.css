@@ -11,7 +11,8 @@ li, .navigation {
     font-weight: 400;
     font-style: normal;
     margin-left: 108px;
-    margin-top: 4px;
+    padding-top: 1px;
+    padding-bottom: 6px;
 }
 
 a:link {
