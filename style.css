@@ -3,7 +3,6 @@
 body {
     background-color: #569486;
     color: #FFFFFF;
-    min-width: 20px;
 }
 
 li, .navigation {
@@ -81,12 +80,13 @@ p {
     font-weight: 400;
     font-style: normal;
     color:#FFFFFF;
+    max-width: 950px;
 }
 
 
 .div {
-    margin-left: 240px;
-    margin-right: 240px;
+    margin-left: 320px;
+    margin-right: 320px;
 }
 
 .portrait {
@@ -152,5 +152,10 @@ top: 0.8rem;
 }
 
 #facebook {
-    margin-left: 400px;
+    margin-left: 650px;
+}
+
+#foot {
+    position: relative;
+    top: 100px;
 }
